@@ -1,0 +1,10 @@
+{
+  "name": "session-recharge",
+  "description": "Preserves important architectural decisions and user requests that get lost during compaction and long sessions. Automatically extracts structured session memory before compaction and re-injects it after. Can also be triggered mid-session anytime you want Claude to refocus on what's been decided.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Edo Ceder"
+  },
+  "repository": "https://github.com/edo-ceder/session-recharge",
+  "license": "MIT"
+}
